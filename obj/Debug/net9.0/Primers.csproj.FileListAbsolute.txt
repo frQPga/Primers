@@ -1,0 +1,15 @@
+C:\Users\giaan\Documents\PrimerAuto\Primers\bin\Debug\net9.0\Primers.exe
+C:\Users\giaan\Documents\PrimerAuto\Primers\bin\Debug\net9.0\Primers.deps.json
+C:\Users\giaan\Documents\PrimerAuto\Primers\bin\Debug\net9.0\Primers.runtimeconfig.json
+C:\Users\giaan\Documents\PrimerAuto\Primers\bin\Debug\net9.0\Primers.dll
+C:\Users\giaan\Documents\PrimerAuto\Primers\bin\Debug\net9.0\Primers.pdb
+C:\Users\giaan\Documents\PrimerAuto\Primers\obj\Debug\net9.0\Primers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giaan\Documents\PrimerAuto\Primers\obj\Debug\net9.0\Primers.AssemblyInfoInputs.cache
+C:\Users\giaan\Documents\PrimerAuto\Primers\obj\Debug\net9.0\Primers.AssemblyInfo.cs
+C:\Users\giaan\Documents\PrimerAuto\Primers\obj\Debug\net9.0\Primers.csproj.CoreCompileInputs.cache
+C:\Users\giaan\Documents\PrimerAuto\Primers\obj\Debug\net9.0\Primers.sourcelink.json
+C:\Users\giaan\Documents\PrimerAuto\Primers\obj\Debug\net9.0\Primers.dll
+C:\Users\giaan\Documents\PrimerAuto\Primers\obj\Debug\net9.0\refint\Primers.dll
+C:\Users\giaan\Documents\PrimerAuto\Primers\obj\Debug\net9.0\Primers.pdb
+C:\Users\giaan\Documents\PrimerAuto\Primers\obj\Debug\net9.0\Primers.genruntimeconfig.cache
+C:\Users\giaan\Documents\PrimerAuto\Primers\obj\Debug\net9.0\ref\Primers.dll
